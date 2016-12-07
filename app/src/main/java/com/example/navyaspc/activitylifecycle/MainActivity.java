@@ -48,6 +48,4 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
         Log.i("Mytag", "onRestart");
     }
-
-    Log.i("My tag", "Task completed...!")
 }
